@@ -1,0 +1,3 @@
+username,password,role,email,full_name
+admin,admin123,Travel Agent,admin@tourism.com,Admin User
+user1,user123,User,user1@email.com,Demo User
